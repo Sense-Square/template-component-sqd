@@ -4,7 +4,7 @@
 Questo template verrà utilizzato per la creazione delle card per il pannello admin, esso mette a disposizione sia una parte grafica sia un insieme di funzionalità standard da usare per gestire le interazioni tra l'utente e la componente
 
 ## Cosa devo modificare?
-Nel seguente template bisogna modificare esclusivamente il file "Card.js", esso è predisposto con delle funzionalità che faciliteranno il cambiamento di stato della componente. Nella parte superiore del file sono presenti dei commenti che vanno compilati con le proprie informazioni
+Nel seguente template bisogna modificare esclusivamente il file "Card.js", esso è predisposto con delle funzionalità che faciliteranno il cambiamento di stato del componente. Nella parte superiore del file sono presenti dei commenti che vanno compilati con le proprie informazioni
 
 ### setStatus(type, description, progress)
 Il **type** definisce il nuovo stato della card, essi possono essere:
