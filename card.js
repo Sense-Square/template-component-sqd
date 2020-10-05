@@ -35,7 +35,7 @@ class Card extends Component{
 
     render(){
         return (
-            <CardComponent size={size} status={this.state.status} statusText={this.state.statusText} progress={this.state.progress}>
+            <CardComponent title="Card title" size={size} status={this.state.status} statusText={this.state.statusText} progress={this.state.progress}>
 
                 {/* INSERT HERE THE CARD CONTENT */}
                 <Text>Card content</Text>
